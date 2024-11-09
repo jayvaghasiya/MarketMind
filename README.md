@@ -3,7 +3,7 @@
 An interactive Streamlit app to display stock sentiment data, enabling quick insights into the market sentiment for top stocks. This app uses a scale from -100 to 100 to represent sentiment, where 0 is neutral. It includes intuitive visualizations like color-coded sliders, progress bars, and sentiment indicators for easy analysis.
 
 ## 📽 Demo Video
-[![Stock Sentiment Analysis Demo](media/demo.mp4)]
+![Stock Sentiment Analysis Demo](media/demo.gif)
 > _Click the image above to watch a video demonstration of the app in action._
 
 ## ✨ Features
