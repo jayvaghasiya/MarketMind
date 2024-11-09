@@ -1,7 +1,8 @@
 import time
-
 from websurfer import MarketScraper, ArticleSaver
+import sys
 
+sys.dont_write_bytecode = True
 
 class StockSentimentApp:
     def __init__(self, stock_list, articles_location, num_articles=5):
